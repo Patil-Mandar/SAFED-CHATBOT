@@ -1,0 +1,34 @@
+{
+    "intents": [
+        {
+            "tag": "Documents",
+            "patterns": [
+                "What are the documents required for the export of milk ?","What paperwork is necessary for milk exports?","What documentation is needed for milk export?", "Documentation required for milk export.","Which paperwork is needed for milk exports?","Documents","Documents for export"
+            ],
+            "responses": [
+                "a. IEC: Import-Export Code\nb. Company (ISE Certificate)\nc. APEDA License\nd. GST Certificate + Bank acc.\ne. Inos certificate"
+            ]
+        },
+        {
+            "tag": "Standards of exporting",
+            "patterns": [
+                "What are the standards of exporting milk?","What criteria are there for milk exports?","What standards apply to milk exports?","Criteria for milk export"
+            ],
+            "responses": [
+                "a. Fat milk report\nb. Transport only by Air\nc. Tetra packing or a pouche for a milk\nd. Price depends on fat percent\ne. Minimum 250-300 litres of milk to be exported"
+            ]
+        },
+        {
+            "tag": "government schemes",
+            "patterns": [
+                "What are the government schemes to support export of milk ?","What are the government's programmes to encourage milk exports?","What initiatives does the government have in place to promote milk exports?","How does the government help in the export of milk ?", "What is the contribution of government in the export of milk?","Does the government help in the export of milk?",""  
+            ],
+            "responses": [
+                "a. MEIS Scheme Subsidy\nb. RODTEP Scheme Subsidy"
+            ]
+        }
+        
+
+    
+    ]
+}
