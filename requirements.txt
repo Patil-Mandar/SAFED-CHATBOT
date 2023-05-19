@@ -6,3 +6,4 @@ scikit_learn==1.0.*
 scipy==1.7.*
 statsmodels==0.13.2
 tensorflow==2.8.0
+gunicorn==19.7.1
